@@ -1,0 +1,20 @@
+.bold-des h3{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Kanit", sans-serif;
+}
+.big-heading h1{
+    font-size: 40px;
+    font-weight: 700;
+    font-family: "Kanit", sans-serif;
+}
+.primary-btn{
+    border: none;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    padding: 5px 15px;
+}
+.padding{
+    padding: 40px 0;
+}
